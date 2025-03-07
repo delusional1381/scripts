@@ -1,3 +1,3 @@
 #!/bin/bash
-
-echo "Hello from github, my name is pouriya :) "
+env=$1
+echo "Hello I am in $env stage"
